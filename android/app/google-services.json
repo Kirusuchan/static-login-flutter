@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599903305909",
+    "project_id": "login-c8cc8",
+    "storage_bucket": "login-c8cc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599903305909:android:7bb0bdef1be3b131c77efc",
+        "android_client_info": {
+          "package_name": "com.example.dice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHR4qe2Urixa4-4Uetu6GGkgZNMMeIg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
